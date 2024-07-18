@@ -1,6 +1,6 @@
 {
   "name": "react-library",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "iamali123 <iamali62426@gmail.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "stencil-library": "*"
+    "stencil-library": "^0.0.1"
   },
   "scripts": {
     "test": "node ./__tests__/react-library.test.js",
