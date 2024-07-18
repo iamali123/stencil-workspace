@@ -1,6 +1,6 @@
 {
   "name": "react-library",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "description": "> TODO: description",
   "author": "iamali123 <iamali62426@gmail.com>",
   "homepage": "",
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "stencil-library": "^7.0.0"
+    "stencil-library": "^8.0.0"
   },
   "scripts": {
     "test": "node ./__tests__/react-library.test.js",
@@ -32,5 +32,5 @@
     "react-dom": "^18.3.1",
     "typescript": "^5.5.3"
   },
-  "gitHead": "facb89239efde93e6300b0d07e03c9add246331f"
+  "gitHead": "b1b881efaa2362c5149aea5cb45a35a65456cb52"
 }
